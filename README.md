@@ -1,4 +1,4 @@
-# Implemet a simple ATM contorller.
+# Implemet a simple ATM controller.
 
 This project aims to implement a simple ATM controller.
 
