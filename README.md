@@ -10,8 +10,11 @@ At least the following flow should be implemented:
 There are no cents only 1 dollar bills in this system.
 
 # Running the test case.
-you have to clone the git or download the files then:
-
+you have to clone the git or download the files:
+```
+git clone https://github.com/kowon86/simple_atm_controller.git
+```
+then make file to running the simple test case:
 ```
 make
 ./output
