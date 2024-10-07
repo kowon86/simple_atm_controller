@@ -14,7 +14,7 @@ you have to clone the git or download the files:
 ```
 git clone https://github.com/kowon86/simple_atm_controller.git
 ```
-then make file to running the simple test case:
+then makefile to run the simple test case:
 ```
 make
 ./output
